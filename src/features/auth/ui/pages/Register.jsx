@@ -19,7 +19,7 @@ export default function Register() {
           <div className="absolute inset-0 bg-linear-to-b from-[#0E0E11]/80 via-transparent to-[#0E0E11]/90 z-0"></div>
 
           <div className="relative z-10">
-            <h2 className="text-xl font-bold tracking-wide">Synthetix AI</h2>
+            <h2 className="text-xl font-bold tracking-wide">Team Sync</h2>
           </div>
 
           <div className="relative z-10 mb-8">
@@ -256,7 +256,7 @@ export default function Register() {
 
       {/* Footer */}
       <footer className="w-full shrink-0 border-t border-gray-800/60 bg-[#0E0E11] px-6 py-4 flex flex-col md:flex-row items-center justify-between text-[10px] xl:text-xs text-gray-500 relative z-20">
-        <div className="font-bold text-gray-300 mb-2 md:mb-0">Synthetix AI</div>
+        <div className="font-bold text-gray-300 mb-2 md:mb-0">Team Sync</div>
 
         <div className="flex gap-4 xl:gap-6 mb-2 md:mb-0">
           <a href="#" className="hover:text-gray-300 transition-colors">
@@ -273,7 +273,7 @@ export default function Register() {
           </a>
         </div>
 
-        <div>© 2024 Synthetix AI. Enterprise Intelligence Platforms.</div>
+        <div>© 2024 Team Sync. Enterprise Intelligence Platforms.</div>
       </footer>
     </div>
   );

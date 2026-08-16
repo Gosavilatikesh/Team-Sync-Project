@@ -18,7 +18,7 @@ export default function Login() {
           <div className="w-12 h-12 bg-[#7559C1] rounded-xl flex items-center justify-center mb-4 shadow-lg shadow-purple-900/20">
             <Network size={24} className="text-white" />
           </div>
-          <h1 className="text-2xl font-semibold mb-2">Synthetix AI</h1>
+          <h1 className="text-2xl font-semibold mb-2">Team Sync</h1>
           <p className="text-gray-400 text-sm">Sign in to your workspace</p>
         </div>
 
