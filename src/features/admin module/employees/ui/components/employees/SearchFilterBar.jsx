@@ -84,7 +84,7 @@ const SearchFilterBar = ({ filters, handleSearchFilters }) => {
 
           <ChevronDown
             size={18}
-            className="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-[var(--text-muted)]"
+            className="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-(--text-muted)"
           />
         </div>
       </div>

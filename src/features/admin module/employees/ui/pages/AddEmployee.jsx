@@ -3,6 +3,7 @@ import AddEmployeeHeader from "../components/addEmployee/AddEmployeeHeader";
 import PersonalInfoForm from "../components/addEmployee/PersonalInfoForm";
 import EmploymentDetailsForm from "../components/addEmployee/EmploymentDetailsForm";
 import FormActions from "../components/addEmployee/FormActions";
+import { createEmployee } from "../../api/employeeApis";
 
 
 const AddEmployee = () => {
@@ -42,7 +43,7 @@ const AddEmployee = () => {
   };
 
   return (
-    <div className="min-h-screen bg-[var(--bg-main)] p-8">
+    <div className="min-h-screen bg-(--bg-main) p-8">
       <div className="mx-auto">
         {/* HEADER */}
         <AddEmployeeHeader />
